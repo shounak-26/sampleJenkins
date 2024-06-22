@@ -5,6 +5,10 @@ public class Algorithm {
    
             System.out.println("I am inside.");
         System.out.println("Process should get automate");
+        myMeth();
 
+    }
+    public static void myMeth(){
+         System.out.println("Lets check!!!");
     }
 }
